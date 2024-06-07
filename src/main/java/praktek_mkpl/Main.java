@@ -11,6 +11,7 @@ public class Main {
         
         System.out.println("Hasil penjumlahan " + a + " dan " + b + " adalah: " + calculator.add(a, b));
         System.out.println("Hasil pengurangan " + a + " dan " + b + " adalah: " + calculator.subtract(a, b));
+        System.out.println("Hasil pengurangan " + a + " dan " + b + " adalah: " + calculator.subtract(a, b));
         System.out.println("Hasil perkalian " + a + " dan " + b + " adalah: " + calculator.multiply(a, b));
         
         try {
