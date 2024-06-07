@@ -2,7 +2,7 @@ package praktek_mkpl;
 
 public class Main {
     public static void main(String[] args) {
-        // Membuat objek kalkulator
+        // Membuat Objek Calculator
         Calculator calculator = new Calculator();
         
         // Melakukan beberapa operasi menggunakan kalkulator
